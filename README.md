@@ -3,7 +3,7 @@
 I'm Kevin and I work @Zoom
 
 - 🔭 I’m currently working on delivering Happiness for Zoom App Marketplace Developers (which means I review apps before they are published 😃)
-- 🌱 I’m currently learning photogrammetry and Unreal Engine  
+- 🌱 I’m learning photogrammetry and Unreal Engine  
 - - Sketchfab: https://sketchfab.com/knmurphy
 - - Polycam: https://poly.cam/@knmurphy
 
