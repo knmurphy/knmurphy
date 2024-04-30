@@ -6,7 +6,9 @@ I'm Kevin and I work on creative technology projects!
 - 🌱 I’m learning photogrammetry and Unreal Engine  
 - - Sketchfab: https://sketchfab.com/knmurphy
 - - Polycam: https://poly.cam/@knmurphy
-- - Checkout my youtube https://www.youtube.com/@mentalhealthplant
+- - Checkout my youtubes
+  -  https://www.youtube.com/@mentalhealthplant
+  -  https://www.youtube.com/@KevinNMurphy
 
 <!--
 **knmurphy/knmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
